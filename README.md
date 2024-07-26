@@ -3,7 +3,7 @@
 ___
 ## Overview
 
-This is QAP Assignment 4 for Software Development. Included are two of three assignments. The Python program allows users to enter their information, calculate new insurance policy information and store the information in data files.  To generate formatted invoices and summaries.
+This is QAP Assignment 4 for Software Development. Included are two of three assignments. The Essentials of Software Development Project portion was posted by Noah Devine (one of my group members) on his Github. The Python program allows users to enter their information, calculate new insurance policy information and store the information in data files.  To generate formatted invoices and summaries.
 
 ## Description
 
